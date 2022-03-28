@@ -1,0 +1,14 @@
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.exe
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.deps.json
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.runtimeconfig.json
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.dll
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\bin\Debug\netcoreapp3.1\Weekend-Tasks.pdb
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.csproj.AssemblyReference.cache
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.dll
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.pdb
+C:\Users\Fatime\source\repos\Weekend-Tasks\Weekend-Tasks\obj\Debug\netcoreapp3.1\Weekend-Tasks.genruntimeconfig.cache
